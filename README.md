@@ -1,2 +1,8 @@
 # odin-recipes
-I will document what I learned here.
+Topics
+HTML boilerplate files
+tags
+	html
+	images
+	links
+	
